@@ -1,1 +1,5 @@
-# Modul-3
+1. program ini melakukan perhitungan permutasi dan kombinasi dengan membuat function factorial untuk rumus faktorial, function permutation untuk rumus permutasi dimana memanggil fungsi faktorial, dan function combination dengan memanggil fungsi faktorial. Didalam fungsi main dilakukan pemanggilan fungsi permutasi dan kombinasi untuk mencetak hasil inputan.
+   
+2. program ini melakukan perhitungan fungsi komposisi dengan membuat fungsi untuk masing-masing f, g, h, fogoh, gohof, dan hofog yang terdiri dari setiap rumus sesuai dengan nama fungsi. Pada fungsi main baru akan dilakukan inputan, pemanggilan, dan mencetak hasil dari fogoh, gohof, dan hofog.
+
+3. program ini melakukan pencarian inputan terdapat di dalam titik lingkaran atau tidak dengan membuat fungsi jarak untuk menghitung radius titik sembarang, fungsi diDalam untuk mengetahui apakah titik tersebut berada di dalam atau tidak dengan dilakukan pemanggilan fungsi jarak, dan fungsi main untuk dilakukan penginputan, pemanggilan fungsi diDalam untuk melakukan pengecekan titik sembarang dan if tersebut dipakai untuk memberi tahu titik tersebut berapa dilingkaran 1 atau 2 atau bahkan diluar lingkaran. 
